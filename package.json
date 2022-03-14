@@ -7,6 +7,8 @@
     "preview": "vite preview --port 5050"
   },
   "dependencies": {
+    "@arpi-1902/cvr-api": "^1.0.0",
+    "npm": "^8.5.4",
     "vue": "^3.2.31"
   },
   "devDependencies": {
